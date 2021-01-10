@@ -1,0 +1,56 @@
+.navbar-default .navbar-nav>li>a{
+	letter-spacing: 0.3rem;
+	text-transform: uppercase;
+}
+
+.navbar-brand{
+	padding: 0;
+}
+.list-unstyled li{
+	padding:1.5rem;
+	border-bottom:1px solid #d9534f;
+}
+
+.list-unstyled li a{
+	color:black;
+	text-decoration:none;
+}
+.list-unstyled li a:hover{
+	color:#d9534f;
+	}
+.panel-title a{
+	text-decoration:none;
+	font-weight:bolder;
+}
+.panel-collapse.collapse.in{
+	box-shadow:1px  6px 20px -5px #000;
+	transition:all 0.5s ease-in;
+}
+
+footer
+{
+	padding: 2rem;
+	background-color: #dbe8ff;
+	margin-top: 2rem;
+}
+footer a{
+	color: #444444;
+	transition: color 0.4s ease-in;
+	padding: 0.2rem;
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+}
+footer p{
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+	color: #444444;
+}
+.bez-tackica{
+	list-style-type: none;
+}
+.tekst{
+	font-size: 1.2em;
+}
+.navbar-default {
+  background-color:#f4f4f4;
+ }
